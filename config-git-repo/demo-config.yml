@@ -1,6 +1,10 @@
-key1: value1
-key2: value2
+key1: bad-value1
+key2: bad-value2
 
 parentKey:
- childKey1: childValue1
- childKey2: childValue2
+ childKey1: bad-childValue1
+ childKey2: bad-childValue2
+
+mobile:
+  - 苹果
+  - 安卓
